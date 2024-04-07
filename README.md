@@ -3,11 +3,11 @@ In this exploration, we delve into the structure and characteristics of the data
 
 Key Objectives:
 
-Identified outliers using boxplots and the "describe" method.
-Investigated the impact of marital status and age on product purchases.
-Represented marginal probabilities for specific treadmill models.
-Explored correlations among different factors using visualizations.
-Addressed specific queries, like the probability of a male customer buying a KP781 treadmill.
-Categorized users based on identified patterns for customer profiling.
-Provided insights into marginal and conditional probabilities.
+1. Identified outliers using boxplots and the "describe" method.
+2. Investigated the impact of marital status and age on product purchases.
+3. Represented marginal probabilities for specific treadmill models.
+4. Explored correlations among different factors using visualizations.
+5. Addressed specific queries, like the probability of a male customer buying a KP781 treadmill.
+6. Categorized users based on identified patterns for customer profiling.
+7. Provided insights into marginal and conditional probabilities.
 Offered actionable insights for strategic decision-making.
